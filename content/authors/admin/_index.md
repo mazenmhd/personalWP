@@ -120,6 +120,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Mazen Mohamad is a researcher at RISE Research Institutes of Sweden. His research interests include Security Assurance of Autonomous Vehicles and the usage of Artifical Inteligence for Cybersecurity. 
+Mazen Mohamad is a researcher at RISE Research Institutes of Sweden. His research interests include Security Assurance of Autonomous Vehicles and the usage of Artificial Intelligence for Cybersecurity. 
 
 {style="text-align: justify;"}
